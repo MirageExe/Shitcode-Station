@@ -17392,6 +17392,9 @@ entities:
     - type: Transform
       pos: 4.5,-9.5
       parent: 1
+    - type: NoDeconstruct
+    missingComponents:
+    - Anchorable
 - proto: ResearchAndDevelopmentServerMachineCircuitboard
   entities:
   - uid: 3743
